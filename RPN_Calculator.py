@@ -62,7 +62,6 @@ class Stack:
         # Return First item that is removed
         return frontData
 
-
 # --------------------------------- Start Calculator Code ------------------------------------
 
 # Enters a value into memory
