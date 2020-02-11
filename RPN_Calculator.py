@@ -18,7 +18,7 @@ class LinkedListNode:
         self.next = myNext
         return
 
-# Stack Class
+# Stack Class that operates on FIFO
 class Stack:
         
     def __init__(self):
