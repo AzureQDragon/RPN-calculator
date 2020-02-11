@@ -2,7 +2,10 @@
 #RPN Calculator
 #2/12/20
 #Postfix notation calculator
+# Input: Numbers and operation specified
+# Output: Result of the numbers and operations given
 
+#Import tkinter
 from tkinter import *
 
 #Linked List node class
